@@ -1,0 +1,9 @@
+scipy.org
+matplotlib.org
+***[used for data science]
+Numpy-processing n-dimensional array package
+pandas-Datastructures and analysis
+Matplotlib-comprehensive 2D plotting
+*****
+
+sympy-Symbolic Mathematics
