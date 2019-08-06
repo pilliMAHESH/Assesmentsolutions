@@ -1,0 +1,29 @@
+->Data is classified into 2 they are:
+    ->continious and Discrete
+Continious:there are decimal data ex: Weight of person
+Discrete:in this the data is accurate ex:shoe size
+--Input varisbales are also called as predictor variables etc  
+--Output variables are target or dependent variables
+
+Supervised learning:U will be giving input and output from the data machine shoud come up wth some prediction by understanding relation between input and output.We will be acting as Tecaher
+
+Unsupervisedd learning:U fill feed the machine only with input.no Teacher.This is used when huan expert don't the output.Machine wil taught you.
+
+______--------______
+Regerssion Anaysis:It estimate the relation betw input and output
+
+There are 2 types :
+
+1.linear(op is continous):
+
+1.1Simple[1-1 input and output]equation :y=b0+b1x+E
+ 
+1.2.and Multiple[many-one output shoud be Continious]eq:y=b0+b1x1+b2x2.....+bnxn
+y-op,x-input,b1- is the coefficient which determine how unit change in x will chane y
+b0-intercept
+
+2. and logistic(output isDiscrete)
+
+R-squared value is used to measure the performance of linera regeression.
+
+Higher the R-squared value the better the model is.
